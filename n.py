@@ -7,7 +7,7 @@ from loguru import logger
 
 # === Configuration ===
 OWNER_IDS = [7353797869]  
-BOT_TOKEN = '7616579954:AAEcezBs_RnbPM46dYgsjQg0l9aBm5r_DCQ'  # Your bot token
+BOT_TOKEN = '7616579954:AAExST5w1CSTAppPA0c0FjJyqV7SE6xXDWI'  # Your bot token
 CONFIG_FILE = 'config.json'
 MAX_DURATION = 240  # Max attack duration in seconds
 
